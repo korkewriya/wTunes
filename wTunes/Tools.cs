@@ -180,7 +180,6 @@ namespace wTunes
                 fs1.Close();
                 fs2.Close();
             }
-
             return ret;
         }
     }
