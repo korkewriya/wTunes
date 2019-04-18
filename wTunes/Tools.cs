@@ -174,6 +174,7 @@ namespace wTunes
             }
             catch
             {
+
             }
             finally
             {
